@@ -9,7 +9,7 @@
  
  ## Software:
  * Windows 10
- * IAR 8.22.1
+ * IAR 8.22.1 (or the above version)
  
  ## Dependencies:
  * EEMBC CoreMark standard test code.(This project already contains. If you want to update, Download link: https://www.eembc.org/coremark/download.php or https://github.com/eembc/coremark)
